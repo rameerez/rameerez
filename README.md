@@ -5,3 +5,8 @@ I'm [rameerez](https://twitter.com/rameerez) and I’ve been creating digital pr
 I’m now working on building [PromptHero](https://prompthero.com). I've also created [Hustl](https://gohustl.co/) and [Edit](https://goedit.me/), among [others](https://rameerez.com/projects)
 
 As for tech stack, I'm a Ruby on Rails guy; but I also love Python for data science / ml.
+
+Lately I've been making a few OSS 💎 Ruby gems:
+ - [✅ `allgood`](https://github.com/rameerez/allgood) - Health check page for your Rails app
+ - [💸 `profitable`](https://github.com/rameerez/profitable) – MRR dashboard for your [`pay`](https://github.com/pay-rails/pay)-powered Rails SaaS
+ - [📍 `trackdown`](https://github.com/rameerez/trackdown) – Geolocate IPs easily (MaxMind BYOK) 
