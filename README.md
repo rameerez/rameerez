@@ -9,4 +9,6 @@ As for tech stack, I'm a Ruby on Rails guy; but I also love Python for data scie
 Lately I've been making a few OSS 💎 Ruby gems:
  - [✅ `allgood`](https://github.com/rameerez/allgood) - Health check page for your Rails app
  - [💸 `profitable`](https://github.com/rameerez/profitable) – MRR dashboard for your [`pay`](https://github.com/pay-rails/pay)-powered Rails SaaS
- - [📍 `trackdown`](https://github.com/rameerez/trackdown) – Geolocate IPs easily (MaxMind BYOK) 
+ - [📍 `trackdown`](https://github.com/rameerez/trackdown) – Geolocate IPs easily (MaxMind BYOK)
+ - [👣 `footprinted`](https://github.com/rameerez/footprinted) – Track geolocated user activity
+ - [🐌 `slugifiable`](https://github.com/rameerez/slugifiable) – Generate SEO-friendly slugs
