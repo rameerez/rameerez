@@ -12,4 +12,4 @@ Lately I've been making a few OSS 💎 Ruby gems:
  - [📍 `trackdown`](https://github.com/rameerez/trackdown) – Geolocate IPs easily (MaxMind BYOK)
  - [👣 `footprinted`](https://github.com/rameerez/footprinted) – Track geolocated user activity
  - [🐌 `slugifiable`](https://github.com/rameerez/slugifiable) – Generate SEO-friendly slugs
- - [🗑️ `nondisposable`](https://github.com/rameerez/nondisposable) – Block disposable emails from signing up to your Rails app
+ - [🗑️ `nondisposable`](https://github.com/rameerez/nondisposable) – Block disposable emails signups
