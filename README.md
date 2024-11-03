@@ -13,3 +13,4 @@ Lately I've been making a few OSS 💎 Ruby gems:
  - [👣 `footprinted`](https://github.com/rameerez/footprinted) – Track geolocated user activity
  - [🐌 `slugifiable`](https://github.com/rameerez/slugifiable) – Generate SEO-friendly slugs
  - [🗑️ `nondisposable`](https://github.com/rameerez/nondisposable) – Block disposable emails signups
+ - [👮‍♂️ `moderate`](https://github.com/rameerez/moderate) – Block profanities in text fields
