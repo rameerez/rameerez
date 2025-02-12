@@ -8,9 +8,11 @@ As for tech stack, I'm a Ruby on Rails guy – but I also love Python for data s
 
 My OSS work revolves around making business-focused 💎 Ruby gems:
  - [✅ `allgood`](https://github.com/rameerez/allgood) - Health check page for your Rails app
- - [💸 `profitable`](https://github.com/rameerez/profitable) – MRR dashboard for your [`pay`](https://github.com/pay-rails/pay)-powered Rails SaaS
+ - [💸 `profitable`](https://github.com/rameerez/profitable) – MRR dashboard for your [`pay`](https://github.com/pay-rails/pay)-powered Rails 
+ - [🗑️ `nondisposable`](https://github.com/rameerez/nondisposable) – Block disposable emails signups
+ - [💳 `usage_credits`](https://github.com/rameerez/usage_credits) – Add usage-based credits to your Rails app
  - [📍 `trackdown`](https://github.com/rameerez/trackdown) – Geolocate IPs easily (MaxMind BYOK)
  - [👣 `footprinted`](https://github.com/rameerez/footprinted) – Track geolocated user activity
  - [🐌 `slugifiable`](https://github.com/rameerez/slugifiable) – Generate SEO-friendly slugs
- - [🗑️ `nondisposable`](https://github.com/rameerez/nondisposable) – Block disposable emails signups
+ - [🍱 `dashboards`](https://github.com/rameerez/dashboards) – Create admin dashboards
  - [👮‍♂️ `moderate`](https://github.com/rameerez/moderate) – Block profanities in text fields
