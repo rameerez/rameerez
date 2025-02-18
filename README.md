@@ -16,4 +16,4 @@ My OSS work revolves around making business-focused 💎 Ruby gems:
  - [🐌 `slugifiable`](https://github.com/rameerez/slugifiable) – Generate SEO-friendly slugs
  - [🍱 `dashboards`](https://github.com/rameerez/dashboards) – Create admin dashboards
  - [👮‍♂️ `moderate`](https://github.com/rameerez/moderate) – Block profanities in text fields
- - [💬 `telegrams`](https://github.com/rameerez/telegrams) – Send admin notifications as Telegram messages 
+ - [💬 `telegrama`](https://github.com/rameerez/telegrama) – Send admin notifications as Telegram messages 
