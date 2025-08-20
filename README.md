@@ -10,6 +10,7 @@ My OSS work revolves around making business-focused 💎 Ruby gems:
  - [✅ `allgood`](https://github.com/rameerez/allgood) - Health check page for your Rails app
  - [💳 `usage_credits`](https://github.com/rameerez/usage_credits) – Add usage-based credits to your Rails app
  - [🔑 `api_keys`](https://github.com/rameerez/api_keys) – Self-serve API keys for your Rails app
+ - [💵 `pricing_plans`](https://github.com/rameerez/pricing_plans) – Define and enforce pricing plan limits (entitlements) in your Rails SaaS
  - [💸 `profitable`](https://github.com/rameerez/profitable) – MRR dashboard for your [`pay`](https://github.com/pay-rails/pay)-powered Rails app
  - [🗑️ `nondisposable`](https://github.com/rameerez/nondisposable) – Block disposable emails on signups
  - [📍 `trackdown`](https://github.com/rameerez/trackdown) – Geolocate IPs easily (MaxMind BYOK)
