@@ -20,3 +20,4 @@ My OSS work revolves around making business-focused 💎 Ruby gems:
  - [👮‍♂️ `moderate`](https://github.com/rameerez/moderate) – Block profanities in text fields
  - [💬 `telegrama`](https://github.com/rameerez/telegrama) – Send admin notifications as Telegram messages
  - [💌 `goodmail`](https://github.com/rameerez/goodmail) – Make your Rails SaaS transactional emails look beautiful
+ - [⚪️ `umami-ruby`](https://github.com/rameerez/umami-ruby) – Ruby wrapper for the Umami analytics API 
