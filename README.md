@@ -2,7 +2,7 @@
 
 I'm [rameerez](https://twitter.com/rameerez), an indie developer. That means it's mostly just me, armed with my trusty laptop, coding away through the night making sites, digital products, and startup-style projects (minus the venture capital and big teams)
 
-I built and sold [PromptHero](https://prompthero.com). I've also created [Hustl](https://gohustl.co/) and [Edit](https://goedit.me/), among [others](https://rameerez.com/projects)
+I built and sold [PromptHero](https://prompthero.com). I'm now making [RailsFast](https://railsfast.com), the AI coding template. I've also created [Hustl](https://gohustl.co/) and [Edit](https://goedit.me/), among [others](https://rameerez.com/projects)
 
 As for tech stack, I'm a Ruby on Rails guy – but I also love Python for data science / AI / machine learning (pytorch, pandas, sklearn, all that stuff)
 
