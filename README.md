@@ -17,7 +17,7 @@ My OSS work revolves around making business-focused 💎 Ruby gems:
  - [💌 `goodmail`](https://github.com/rameerez/goodmail) – Make your Rails SaaS transactional emails look beautiful
  - [🐌 `slugifiable`](https://github.com/rameerez/slugifiable) – Generate SEO-friendly slugs in your Rails app
  - [📍 `trackdown`](https://github.com/rameerez/trackdown) – Geolocate IPs easily with Cloudflare headers or MaxMind (BYOK)
- - [👣 `footprinted`](https://github.com/rameerez/footprinted) – Track geolocated user activity
+ - [👣 `footprinted`](https://github.com/rameerez/footprinted) – Simple event tracking for Rails apps
  - [👮‍♂️ `moderate`](https://github.com/rameerez/moderate) – Block profanities in text fields
  - [🍱 `dashboards`](https://github.com/rameerez/dashboards) – Create admin dashboards
  - [⚪️ `umami-ruby`](https://github.com/rameerez/umami-ruby) – Ruby wrapper for the Umami analytics API
