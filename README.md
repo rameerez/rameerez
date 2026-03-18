@@ -9,6 +9,7 @@ My OSS work revolves around making business-focused 💎 Ruby gems for Rails app
  - [💸 `profitable`](https://github.com/rameerez/profitable) – MRR dashboard for your Rails app
  - [🗑️ `nondisposable`](https://github.com/rameerez/nondisposable) – Block disposable emails on signups
  - [💳 `usage_credits`](https://github.com/rameerez/usage_credits) – Add usage-based credits to your Rails app
+ - [💼 `wallets`](https://github.com/rameerez/wallets) – Add user wallets with money-like balances to your Rails app
  - [🔑 `api_keys`](https://github.com/rameerez/api_keys) – Self-serve API keys for your Rails app
  - [💵 `pricing_plans`](https://github.com/rameerez/pricing_plans) – Define and enforce pricing plan limits (SaaS entitlements) in your Rails app
  - [🏢 `organizations`](https://github.com/rameerez/organizations) – Add organizations (with members, invites, and roles) to your Rails app
