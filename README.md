@@ -4,7 +4,7 @@ I'm Javi ([@rameerez](https://twitter.com/rameerez)), a 30-something guy making 
 
 I built and sold [PromptHero](https://prompthero.com) (AI company, makers of Openjourney, scaled it to 4M+ users/mo from scratch). I'm now making [RailsFast](https://railsfast.com), a vibe coding boilerplate template based on Rails. I've also created [40+ other projects](https://rameerez.com/projects) like [Hustl](https://gohustl.co) and [LicenseSeat](https://licenseseat.com). 
 
-My OSS work revolves around making business-focused 💎 Ruby gems:
+I've created 20 Ruby gems with over 150k downloads. My OSS work revolves around making business-focused 💎 Ruby gems for Rails apps:
  - [✅ `allgood`](https://github.com/rameerez/allgood) - Health check page for your Rails app
  - [💸 `profitable`](https://github.com/rameerez/profitable) – MRR dashboard for your Rails app
  - [🗑️ `nondisposable`](https://github.com/rameerez/nondisposable) – Block disposable emails on signups
