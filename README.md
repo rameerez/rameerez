@@ -2,7 +2,7 @@
 
 I'm [rameerez](https://twitter.com/rameerez), a 30-something guy making things with a laptop.
 
-I built and sold [PromptHero](https://prompthero.com) (AI company, makers of Openjourney). I'm now making [RailsFast](https://railsfast.com), a vibe coding boilerplate template based on Rails. I've also created apps like [Hustl](https://gohustl.co/) and [Edit](https://goedit.me/), among [others](https://rameerez.com/projects)
+I built and sold [PromptHero](https://prompthero.com) (AI company, makers of Openjourney, scaled it to 4M+ users/mo from scratch). I'm now making [RailsFast](https://railsfast.com), a vibe coding boilerplate template based on Rails. I've also created [40+ other projects](https://rameerez.com/projects) like [Hustl](https://gohustl.co) and [LicenseSeat](https://licenseseat.com). 
 
 My OSS work revolves around making business-focused 💎 Ruby gems:
  - [✅ `allgood`](https://github.com/rameerez/allgood) - Health check page for your Rails app
