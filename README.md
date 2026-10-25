@@ -15,6 +15,7 @@ My OSS work revolves around making business-focused 💎 Ruby gems for Rails app
  - [🏢 `organizations`](https://github.com/rameerez/organizations) – Add organizations (with members, invites, and roles) to your Rails app
  - [💬 `telegrama`](https://github.com/rameerez/telegrama) – Send Telegram admin notifications in your Rails app
  - [💌 `goodmail`](https://github.com/rameerez/goodmail) – Make your Rails SaaS transactional emails look beautiful
+ - [📨 `bouncy`](https://github.com/rameerez/bouncy) – Email bounce handling for your Rails app
  - [🐌 `slugifiable`](https://github.com/rameerez/slugifiable) – Generate SEO-friendly slugs in your Rails app
  - [📍 `trackdown`](https://github.com/rameerez/trackdown) – Geolocate IPs easily with Cloudflare headers or MaxMind (BYOK)
  - [👣 `footprinted`](https://github.com/rameerez/footprinted) – Simple event tracking for Rails apps
