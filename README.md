@@ -13,6 +13,7 @@ My OSS work revolves around making business-focused 💎 Ruby gems for Rails app
  - [🔑 `api_keys`](https://github.com/rameerez/api_keys) – Self-serve API keys for your Rails app
  - [💵 `pricing_plans`](https://github.com/rameerez/pricing_plans) – Define and enforce pricing plan limits (SaaS entitlements) in your Rails app
  - [🏢 `organizations`](https://github.com/rameerez/organizations) – Add organizations (with members, invites, and roles) to your Rails app
+ - [👩‍🎤 `usernames`](https://github.com/rameerez/usernames) – Add usernames with validations to your Rails app
  - [💬 `telegrama`](https://github.com/rameerez/telegrama) – Send Telegram admin notifications in your Rails app
  - [💌 `goodmail`](https://github.com/rameerez/goodmail) – Make your Rails SaaS transactional emails look beautiful
  - [📨 `bouncy`](https://github.com/rameerez/bouncy) – Email bounce handling for your Rails app
